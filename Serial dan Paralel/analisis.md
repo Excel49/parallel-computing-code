@@ -1,3 +1,6 @@
+# Nama: Muhamad Lingga Darmawan
+# NIM: 152024042
+
 # Serial vs Paralel Computing
 
 Kode ini menunjukkan apakah komputasi paralel benar-benar meningkatkan performa dibanding serial.

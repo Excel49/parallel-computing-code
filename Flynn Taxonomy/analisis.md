@@ -1,3 +1,7 @@
+# Nama: Muhamad Lingga Darmawan
+# NIM: 152024042
+
+
 # Flynn's Taxonomy
 
 Folder ini berisi demonstrasi **Flynn's Taxonomy** (SISD, SIMD, MISD, MIMD) menggunakan studi kasus yang sama: menghitung jumlah kuadrat (*sum of squares*).
